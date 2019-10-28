@@ -1,0 +1,1 @@
+sudo docker run -p 8099:8099 -p 8443:8443 java-app:test
